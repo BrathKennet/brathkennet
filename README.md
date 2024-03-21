@@ -65,3 +65,14 @@ Poseo conocimiento sobre el desarrollo de aplicaciones web (con experiencia en R
 - Diseño &nbsp;
 
   <img src="https://skillicons.dev/icons?i=figma" height="30px"/>
+
+
+<img src="./assets/gap-blue.svg" alt="Divider" width="100%" >
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrathKennet&theme=algolia&hide_border=true&no-bg=true" alt="Stats2"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrathKennet&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" height="160px" alt="Stats1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrathKennet&theme=algolia&hide_border=true&no-bg=true&include_all_commits=true&count_private=true&layout=compact" height="160px"  alt="Stats3"/>  
+</div>
