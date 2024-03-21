@@ -70,9 +70,9 @@ Poseo conocimiento sobre el desarrollo de aplicaciones web (con experiencia en R
 <img src="./assets/gap-blue.svg" alt="Divider" width="100%" >
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrathKennet&theme=algolia&hide_border=true&no-bg=true" alt="Stats2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrathKennet&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" height="150px" alt="Stats1"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrathKennet&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" height="160px" alt="Stats1"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrathKennet&theme=algolia&hide_border=true&no-bg=true&include_all_commits=true&count_private=true&layout=compact" height="160px"  alt="Stats3"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrathKennet&theme=algolia&hide_border=true&no-bg=true"  height="150px" alt="Stats2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrathKennet&theme=algolia&hide_border=true&no-bg=true&include_all_commits=true&count_private=true&layout=compact" height="150px"  alt="Stats3"/>  
 </div>
